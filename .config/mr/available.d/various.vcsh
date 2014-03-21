@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/various.git]
+checkout = vcsh clone git@github.com:tfnico/config-various.git various
