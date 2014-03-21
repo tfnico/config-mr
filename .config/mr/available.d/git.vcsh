@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/git.git]
+checkout = vcsh clone git@github.com:tfnico/config-git.git git
+
