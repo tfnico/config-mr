@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/profile.git]
+checkout = vcsh clone git@github.com:tfnico/config-profile.git profile
