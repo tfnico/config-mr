@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/company-bin.git]
-checkout = vcsh clone https://tfnico@bitbucket.org/tfnico/config-company-bin.git company-bin
+checkout = vcsh clone git@bitbucket.org.private:tfnico/config-company-bin.git company-bin
