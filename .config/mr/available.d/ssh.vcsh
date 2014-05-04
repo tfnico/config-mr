@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/ssh.git]
+checkout = vcsh clone https://tfnico@bitbucket.org/tfnico/config-ssh.git ssh
