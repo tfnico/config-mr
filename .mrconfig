@@ -8,6 +8,3 @@ include = cat ~/.config/mr/config.d/*
 [prefs]
 checkout = git clone 'git@github.com:tfnico/prefs.git' 'prefs'
 
-[pure]
-checkout = git clone 'git@github.com:sindresorhus/pure.git' 'pure'
-push = echo "not pushing this one, read-only"
